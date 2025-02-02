@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Prudvi  
 
-A passionate **Competitive Programmer** and **Full-Stack Developer** from India.
+A passionate **Competitive Programmer** from India.
 
 
 ## 🌟 **About Me**
