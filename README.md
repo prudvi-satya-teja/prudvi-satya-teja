@@ -44,7 +44,7 @@ A passionate **Competitive Programmer** from India.
 ## Connect With me on
 
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
-  <a href="https://www.linkedin.com/in/dra-carys/">
+  <a href="https://www.linkedin.com/in/prudvi-satya-teja/">
     <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&logoColor=white" height="30" alt="LinkedIn logo" />
   </a>
   <a href="https://www.codechef.com/users/dra_ca_rys">
