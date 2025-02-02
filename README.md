@@ -41,6 +41,39 @@ A passionate **Competitive Programmer** from India.
 </div>
 
 
+## Connect With me on
+
+<div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
+  <a href="https://www.linkedin.com/in/dra-carys/">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&logoColor=white" height="30" alt="LinkedIn logo" />
+  </a>
+  <a href="https://www.codechef.com/users/dra_ca_rys">
+    <img src="https://img.shields.io/badge/CodeChef-Profile-blue?logo=codechef&logoColor=white" height="30" alt="CodeChef logo" />
+  </a>
+</div>
+
+<div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
+  <a href="https://codeforces.com/profile/Dra-Carys">
+    <img src="https://img.shields.io/badge/Codeforces-Profile-red?logo=codeforces&logoColor=white" height="30" alt="Codeforces logo" />
+  </a>
+  <a href="https://leetcode.com/Dra-Carys">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-orange?logo=leetcode&logoColor=white" height="30" alt="LeetCode logo" />
+  </a>
+</div>
+
+<div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
+  <a href="https://www.hackerrank.com/Dra_Carys">
+    <img src="https://img.shields.io/badge/HackerRank-Profile-green?logo=hackerrank&logoColor=white" height="30" alt="HackerRank logo" />
+  </a>
+  <a href="https://www.geeksforgeeks.org/user/dracaris">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-Profile-green?logo=geeksforgeeks&logoColor=white" height="30" alt="GeeksforGeeks logo" />
+  </a>
+</div>
+
+
+
+
+
 ## Profile Views
 <p align="left">
     <img src="https://komarev.com/ghpvc/?username=prudvi-satya-teja&label=Profile%20views&color=blue&style=flat"/>
