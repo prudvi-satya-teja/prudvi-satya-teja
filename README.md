@@ -3,7 +3,7 @@
 A passionate **Competitive Programmer** from India.
 
 
-## 🌟 **About Me**
+##  **About Me**
 - 🔭 I’m currently working on a **College Club Management System Application**  
 - 🌱 I’m currently learning **JavaScript** and diving deeper into backend development  
 - 👯 I’m looking to collaborate on **Full-Stack Development Projects**  
@@ -11,7 +11,7 @@ A passionate **Competitive Programmer** from India.
 - 📫 How to reach me: prudvisatyateja1234@gmail.com  
 
 
-## 🛠️ **Skills**
+##  **Skills**
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo" />
   <img width="12" />
@@ -39,40 +39,6 @@ A passionate **Competitive Programmer** from India.
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo" />
 </div>
-
-
-## Connect With me on
-
-<div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
-  <a href="https://www.linkedin.com/in/prudvi-satya-teja/">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&logoColor=white" height="30" alt="LinkedIn logo" />
-  </a>
-  <a href="https://www.codechef.com/users/dra_ca_rys">
-    <img src="https://img.shields.io/badge/CodeChef-Profile-blue?logo=codechef&logoColor=white" height="30" alt="CodeChef logo" />
-  </a>
-</div>
-
-<div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
-  <a href="https://codeforces.com/profile/Dra-Carys">
-    <img src="https://img.shields.io/badge/Codeforces-Profile-red?logo=codeforces&logoColor=white" height="30" alt="Codeforces logo" />
-  </a>
-  <a href="https://leetcode.com/Dra-Carys">
-    <img src="https://img.shields.io/badge/LeetCode-Profile-orange?logo=leetcode&logoColor=white" height="30" alt="LeetCode logo" />
-  </a>
-</div>
-
-<div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
-  <a href="https://www.hackerrank.com/Dra_Carys">
-    <img src="https://img.shields.io/badge/HackerRank-Profile-green?logo=hackerrank&logoColor=white" height="30" alt="HackerRank logo" />
-  </a>
-  <a href="https://www.geeksforgeeks.org/user/dracaris">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-Profile-green?logo=geeksforgeeks&logoColor=white" height="30" alt="GeeksforGeeks logo" />
-  </a>
-</div>
-
-
-
-
 
 ## Profile Views
 <p align="left">
