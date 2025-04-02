@@ -4,7 +4,7 @@ A passionate **Competitive Programmer** from India.
 
 
 ##  **About Me**
-- 🔭 I’m currently working on a **College Club Management System Application**  
+- 🔭 I’m currently working on a **Food Application**  
 - 🌱 I’m currently learning **React.js** and diving deeper into backend development  
 - 👯 I’m looking to collaborate on **Full-Stack Development Projects**  
 - 💬 Ask me about **Competitive Coding, Backend Development, and JavaScript**  
