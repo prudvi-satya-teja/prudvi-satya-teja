@@ -34,7 +34,6 @@ A passionate **Competitive Programmer** from India.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" 
        height="30" 
        alt="expressjs logo" 
-       style="filter: brightness(0) invert(1);" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo" />
   <img width="12" />
