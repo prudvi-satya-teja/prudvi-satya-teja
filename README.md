@@ -89,11 +89,11 @@ A passionate **Competitive Programmer** from India.
     <img src="https://komarev.com/ghpvc/?username=prudvi-satya-teja&label=Profile%20views&color=blue&style=flat"/>
 </p>
 
-## GitHub Stats
-<div align="center">
-  <!-- <img src="https://github-readme-stats.vercel.app/api?username=prudvi-satya-teja&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=false" height="180" width="400" alt="stats graph" /> -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=prudvi-satya-teja&layout=compact&langs_count=5&theme=dracula&hide_border=false" height="280" width="304" alt="languages graph" />
-</div>
+<!-- ## GitHub Stats
+<!-- <div align="center"> -->
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=prudvi-satya-teja&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=false" height="180" width="400" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=prudvi-satya-teja&layout=compact&langs_count=5&theme=dracula&hide_border=false" height="280" width="304" alt="languages graph" /> -->
+<!-- </div> -->
 
 
 
